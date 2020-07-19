@@ -1,0 +1,23 @@
+{
+  "name": "commspt-bot-manual",
+  "version": "1.0.0",
+  "description": "Community Support QQ bot Manual",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev .",
+    "build": "vuepress build ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LittleSkinCommspt/commspt-bot-manual.git"
+  },
+  "author": "LittleSkinCommspt",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/LittleSkinCommspt/commspt-bot-manual/issues"
+  },
+  "homepage": "https://github.com/LittleSkinCommspt/commspt-bot-manual#readme",
+  "devDependencies": {
+    "vuepress": "^1.5.2"
+  }
+}
