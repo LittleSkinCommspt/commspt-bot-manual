@@ -22,7 +22,7 @@
 ::: tip 源代码
 得益于 [Mirai](https://github.com/mamoe/mirai) & [mirai-http-api](https://github.com/project-mirai/mirai-api-http) & [python-mirai](https://github.com/NatriumLab/python-mirai) 等优秀的开源项目，我们使用 [Python3](https://www.python.org/) 构建了这个机器人。
 
-你可以在 [GitHub](https://github.com/LittleSkinCommspt/commspt-bot) 找到此及机器人的源代码。
+你可以在 [GitHub](https://github.com/LittleSkinCommspt/commspt-bot) 找到此机器人的源代码。
 
 欢迎打开新的 [Issues](https://github.com/LittleSkinCommspt/commspt-bot/issues) 进行探讨交流。我们聆听你宝贵的意见。
 :::
