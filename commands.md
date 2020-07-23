@@ -21,6 +21,7 @@
 - 对角色名回复 **`$csl`** 
     那信息中的文本作为角色名进行查询
 - **`$csl.log`** 引导用户上传 CustomSkinLoader 日志
+- **`$csl.json`** 引导用户手动修改 CustomSkinLoader 的配置文件
 
 ## $browser
 - **`$browser`** 引导用户更换浏览器
