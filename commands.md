@@ -22,6 +22,13 @@
 - **`$csl.log`** 引导用户上传 CustomSkinLoader 日志
 - **`$csl.json`** 引导用户手动修改 CustomSkinLoader 的配置文件
 
+## $ygg
+- **`$ygg <player_name>`**  获取 `<player_name>` 的角色信息（含 UUID）
+- 对角色名回复 **`$ygg`** 使用被回复的消息中的文本作为角色名进行查询
+
+## $texture
+- **`$texture <texture_hash>`**  获取材质（图片）
+
 ## $browser
 - **`$browser`** 引导用户更换浏览器
 
