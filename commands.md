@@ -28,7 +28,7 @@
 - **`$ygg.nsis`**  *No Skin in Server*，提示用户需正确配置服务端
 
 ## $texture
-- **`$texture <texture_hash>`**  获取材质预览
+- **`$texture <texture_hash>`**  获取材质预览，`<texture_hash>` 应为长度为 64 位的哈希值
 
 ## $browser
 - **`$browser`** 引导用户更换浏览器
