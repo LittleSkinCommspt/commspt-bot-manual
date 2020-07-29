@@ -17,17 +17,18 @@
 ---
 
 ## $csl 
-- **`$csl <player_name>`**  获取 `<player_name>` 的角色信息
-- 对角色名回复 **`$csl`** 使用被回复的消息中的文本作为角色名进行查询
+- **`$csl <player_name>`**  获取 `<player_name>` 的角色信息，同时返回材质预览
+- 对角色名回复 **`$csl`** 使用被回复的消息中的文本作为角色名进行查询，同时返回材质预览
 - **`$csl.log`** 引导用户上传 CustomSkinLoader 日志
 - **`$csl.json`** 引导用户手动修改 CustomSkinLoader 的配置文件
 
 ## $ygg
-- **`$ygg <player_name>`**  获取 `<player_name>` 的角色信息（含 UUID）
-- 对角色名回复 **`$ygg`** 使用被回复的消息中的文本作为角色名进行查询
+- **`$ygg <player_name>`**  获取 `<player_name>` 的角色信息（含 UUID），同时返回 `provider` 为 LittleSkin 的材质预览
+- 对角色名回复 **`$ygg`** 使用被回复的消息中的文本作为角色名进行查询，同时返回 `provider` 为 LittleSkin 的材质预览
+- **`$ygg.nsis`**  *No Skin in Server*，提示用户需正确配置服务端
 
 ## $texture
-- **`$texture <texture_hash>`**  获取材质（图片）
+- **`$texture <texture_hash>`**  获取材质预览
 
 ## $browser
 - **`$browser`** 引导用户更换浏览器
