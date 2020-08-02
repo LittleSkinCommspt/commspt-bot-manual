@@ -10,6 +10,10 @@
 任何人都可以合理的使用此机器人，但是请不要滥用，否则，我们将会取消你使用机器人的资格。
 :::
 
+::: danger 警告
+由于依赖项目 Mirai 及其附属插件 mirai-api-http 因为**特殊原因**暂时停止更新并将其项目作为备档（只读）, 我们随时有可能被迫停止此机器人的服务。
+:::
+
 ::: tip 维护者
 此机器人和此文档均由 [LittleSkinCommspt](https://github.com/LittleSkinCommspt) 维护，而非 LittleSkin 官方。
 
