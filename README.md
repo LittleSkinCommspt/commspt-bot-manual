@@ -21,6 +21,7 @@
 
 此机器人的主要维护者如下：
 - [Xiao_Jin](https://github.com/jinzhijie)
+- [Restent Ou](https://github.com/Restent)
 :::
 
 ::: warning 与 Constance 的兼容性
