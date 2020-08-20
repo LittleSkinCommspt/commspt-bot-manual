@@ -11,7 +11,11 @@
 :::
 
 ::: danger 警告
-由于依赖项目 Mirai 及其附属插件 mirai-api-http 因为**特殊原因**暂时停止更新并将其项目作为备档（只读）, 我们随时有可能被迫停止此机器人的服务。
+我们将框架替换为了 Graia Framework，并对指令做出了改动和增加。
+
+由于框架的广播控制机制存在 bug，机器人近期无法运行。
+
+**本文档暂时不具有有效性**
 :::
 
 ::: tip 维护者
@@ -34,7 +38,7 @@
 :::
 
 ::: tip 源代码
-得益于 [Mirai](https://github.com/mamoe/mirai) & [mirai-http-api](https://github.com/project-mirai/mirai-api-http) & [python-mirai](https://github.com/NatriumLab/python-mirai) 等优秀的开源项目，我们使用 [Python3](https://www.python.org/) 构建了这个机器人。
+得益于 [Mirai](https://github.com/mamoe/mirai) & [mirai-http-api](https://github.com/project-mirai/mirai-api-http) & [Graia Framework](https://github.com/GraiaProject/Application) 等优秀的开源项目，我们使用 [Python3](https://www.python.org/) 开发了这个机器人。
 
 你可以在 [GitHub](https://github.com/LittleSkinCommspt/commspt-bot) 找到此机器人的源代码。
 
