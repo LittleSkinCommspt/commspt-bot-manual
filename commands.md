@@ -36,6 +36,9 @@
 ## &mail
 - **`&mail`** 引导用户提交邮件工单（通常不建议使用）
 
+## &ygg.server.jvm
+- **`&ygg.server.jvm`** 引导用户添加参数并将产生的日志上传至群
+
 ## &domain
 - **`&domain`** 引导用户更换域名访问 LittleSkin 主站
 
