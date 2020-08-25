@@ -15,9 +15,20 @@
 :::
 
 ---
+## &test
+- **`&test`** 存活测试
+
+## &manual
+- **`&manual`** 引导用户在用户手册中找到问题答案
+
+## &faq
+- **`&faq`** 引导用户看常见问题解答
+
+## &ot
+- **`&ot`** 提示用户正在水群，并将其引导至咖啡馆
 
 ## &csl 
-- **`&csl <player_name>`**  获取 `<player_name>` 的角色信息，同时返回材质预览
+- **`&csl <player_name>`** 获取 `<player_name>` 的角色信息，同时返回材质预览
 - 对角色名回复 **`$csl`** 使用被回复的消息中的文本作为角色名进行查询，同时返回材质预览
 - **`&csl.log`** 引导用户上传 CustomSkinLoader 日志
 - **`&csl.json`** 引导用户手动修改 CustomSkinLoader 的配置文件
@@ -41,12 +52,6 @@
 
 ## &domain
 - **`&domain`** 引导用户更换域名访问 LittleSkin 主站
-
-## &faq
-- **`&faq`** 引导用户看常见问题解答
-
-## &ot
-- **`&ot`** 提示用户正在水群，并将其引导至咖啡馆
 
 ## &ban / $unban
 - **`&ban <@somebody or QQnum>`** <Badge text="仅管理员" type="warning"/>  
