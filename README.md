@@ -10,22 +10,22 @@
 任何人都可以合理的使用此机器人，但是请不要滥用，否则，我们将会取消你使用机器人的资格。
 :::
 
-::: danger 警告
-我们将框架替换为了 Graia Framework，并对指令做出了改动和增加。
+::: tip 升级啦
+我们将框架替换为了 Graia Framework，并对指令做出了改动和增加。目前，开发已基本结束，机器人可以正常运行。
 
-由于框架的广播控制机制存在 bug，机器人近期无法运行。
-
-**本文档暂时不具有有效性**
+要注意的是，**本文档暂时不具有有效性**。我们需要有人维护此文档，如果你有意愿，请往下看。
 :::
 
 ::: tip 维护者
-此机器人和此文档均由 [LittleSkinCommspt](https://github.com/LittleSkinCommspt) 维护，而非 LittleSkin 官方。
+此机器人和此文档均由 [LittleSkinCommspt](https://github.com/LittleSkinCommspt) 维护，[LittleSkin](https://littlesk.in/) 运营组以及 CustomSkinLoader 开发人员提供了一些对开发有帮助的建议。
 
-*LittleSkinCommspt* 指 LittleSkin 社区技术支持组，社区技术支持并非由运营组提供，但相关人员是由运营组钦定的。
+> *LittleSkinCommspt* 指 LittleSkin 社区技术支持组，社区技术支持并非由运营组提供，但相关人员是由运营组钦定的。
 
 此机器人的主要维护者如下：
-- [Xiao_Jin](https://github.com/jinzhijie)
-- [Restent Ou](https://github.com/Restent)
+- [Xiao_Jin](https://github.com/jinzhijie) (developer) （初三/忙碌）
+- [Restent Ou](https://github.com/Restent) (maintainer) （初三/忙碌）
+
+**我们急需有人接手开发 & 维护此项目**，如果你熟悉 Python3 的语法，能够理解 [现有代码](https://github.com/LittleSkinCommspt/commspt-bot) 以及 [Graia Framework](https://github.com/GraiaProject/Application) 的文档（如果还是 LittleSkin 的用户就更好了），欢迎发送邮件到 `support#commspt.littlesk.in`！
 :::
 
 ::: warning 与 Constance 的兼容性
@@ -40,7 +40,7 @@
 ::: tip 源代码
 得益于 [Mirai](https://github.com/mamoe/mirai) & [mirai-http-api](https://github.com/project-mirai/mirai-api-http) & [Graia Framework](https://github.com/GraiaProject/Application) 等优秀的开源项目，我们使用 [Python3](https://www.python.org/) 开发了这个机器人。
 
-你可以在 [GitHub](https://github.com/LittleSkinCommspt/commspt-bot) 找到此机器人的源代码。
+你可以在 [GitHub](https://github.com/LittleSkinCommspt/commspt-bot) 找到此机器人的源代码，我们欢迎你为 LittleSkin 做出任何贡献！ ~~即使可能有些微不足道~~
 
 欢迎打开新的 [Issues](https://github.com/LittleSkinCommspt/commspt-bot/issues) 进行探讨交流。我们聆听你宝贵的意见。
 :::
