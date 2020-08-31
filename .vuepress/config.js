@@ -17,7 +17,7 @@ module.exports = {
       ['/commands', '指令'],
     ],
     smoothScroll: true,
-    lastUpdated: '上次更新于',
+    lastUpdated: '上次更新',
   },
   evergreen: true,
 };
