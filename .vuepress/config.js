@@ -15,6 +15,7 @@ module.exports = {
     sidebar: [
       ['/', '欢迎页'],
       ['/commands', '指令'],
+      ['/functions', '功能'],
     ],
     smoothScroll: true,
     lastUpdated: '上次更新',
