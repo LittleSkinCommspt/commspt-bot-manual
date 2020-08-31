@@ -35,12 +35,6 @@
 - **`&csl.log`** 引导用户上传 CustomSkinLoader 日志至 <https://pastebin.aosc.io/>
 - **`&csl.config`** 引导用户手动修改 CustomSkinLoader 的配置文件
 
-::: tip 申必功能
-当用户在群内发出 CustomSkinLoader 的日志在 <https://pastebin.aosc.io/> 的链接后，机器人将自动解析日志，提取关键信息并提供问题报告。
-
-需要注意的是，由于没有使用 `aiohttp` 这个异步库，解析日志时将会阻塞其他指令运行 ~~（便秘）~~
-:::
-
 ## &ygg
 - **`&ygg <player_name>`**  获取 `<player_name>` 的角色信息（含 UUID），同时返回 `provider` 为 LittleSkin 的材质预览
 - 对角色名回复 **`$ygg`** 使用被回复的消息中的文本作为角色名进行查询，同时返回 `provider` 为 LittleSkin 的材质预览
