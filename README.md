@@ -2,7 +2,7 @@
 
 <h3>欢迎浏览 LittleSkin 社区支持机器人使用手册！</h3>
 
-此机器人已在 [LittleSkin 官方用户交流群](https://manual.littlesk.in/user-group.html#qq-%E7%BE%A4) 中启用。
+此机器人已在 [LittleSkin 官方用户交流群](https://manual.littlesk.in/user-group.html#%E4%B8%BB%E7%94%A8%E6%88%B7%E7%BE%A4) [CustomSkinLoader 官方交流群](https://www.mcbbs.net/thread-269807-1-1.html) [LittleSkin 咖啡馆](https://manual.littlesk.in/user-group.html#%E5%92%96%E5%95%A1%E9%A6%86)) 中启用。
 
 你可以在 [指令](commands.md) 页面查看所有可以使用的指令。
 
@@ -13,8 +13,11 @@
 ::: tip 升级啦
 我们将框架替换为了 Graia Framework，并对指令做出了改动和增加。目前，开发已基本结束，机器人可以正常运行。
 
-要注意的是，**本文档暂时不具有有效性**。我们需要有人维护此文档，如果你有意愿，请往下看。
 :::
+
+~~要注意的是，**本文档暂时不具有有效性**。我们需要有人维护此文档，如果你有意愿，请往下看。~~
+
+> 此文档已由 [bingling_sama](https://github.com/bingling-sama) 接手维护工作，同步 littleskin 社区支持鸡气壬进行更新
 
 ::: tip 维护者
 此机器人和此文档均由 [LittleSkinCommspt](https://github.com/LittleSkinCommspt) 维护，[LittleSkin](https://littlesk.in/) 运营组以及 CustomSkinLoader 开发人员提供了一些对开发有帮助的建议。
@@ -50,3 +53,5 @@
 
 本文中的部分内容引用自 [LittleSkin 用户使用手册](https://manual.littlesk.in/)。
 :::
+
+[https://manual.littlesk.in/user-group.html#%E4%B8%BB%E7%94%A8%E6%88%B7%E7%BE%A4]: 
