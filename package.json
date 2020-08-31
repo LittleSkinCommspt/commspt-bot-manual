@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/LittleSkinCommspt/commspt-bot-manual#readme",
   "devDependencies": {
-    "vuepress": "^1.5.2"
+    "vuepress": "^1.5.4"
   }
 }
