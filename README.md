@@ -25,7 +25,7 @@
 - [Xiao\_Jin](https://github.com/jinzhijie) (developer) （初三/忙碌）
 - [Restent Ou](https://github.com/Restent) (maintainer) （初三/忙碌）
 - [Fidel](https://github.com/Fidelxyz) (contributor) （高一/忙碌）
-- [冰凌sama](https://github.com/bingling-sama) (documenter) （开学/忙碌）
+- [冰凌sama](https://github.com/bingling-sama) (contributor) （开学/忙碌）
 - [CursoR_光标](https://github.com/CursoR-S) (maintainer) （开学/忙碌）
 
 **📣 我们急需有人接手开发 & 维护此项目**，如果你熟悉 Python3 的语法，能够理解 [现有代码](https://github.com/LittleSkinCommspt/commspt-bot) 以及 [Graia Framework](https://github.com/GraiaProject/Application) 的文档（如果还是 LittleSkin 的用户就更好了），欢迎发送邮件到 `support📧commspt.littlesk.in`！
