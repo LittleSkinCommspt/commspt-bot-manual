@@ -46,7 +46,7 @@
 - **`$ygg.url`** 获取添加认证服务器时需要填入的 url
 
 ## &clfcsl.latest
-- todo
+- **`&clfcsl.latest`** 引导用户在 1.7.10 中使用 [CompatibilityLayerForCustomSkinLoader](https://www.mcbbs.net/thread-1109996-1-1.html) 来兼容新版 CustomSkinLoader
 
 ## &view
 - **`&view <texture_hash>`**  获取材质预览，`<texture_hash>` 应为长度为 64 位的哈希值
