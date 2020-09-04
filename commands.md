@@ -43,7 +43,7 @@
 - **`&ygg.server.jvm`**  引导用户添加参数并将产生的日志上传直群文件
 - **`&ygg.latest`** 获取 authlib-injector 最新版本
 - **`&ygg.client.refresh`** 刷新客户端 Yggdrasil 认证用户状态
-- **`$ygg.url`** 获取添加认证服务器时需要填入的 url
+- **`$ygg.url`** 提示添加认证服务器时需要填入的 URL
 
 ## &clfcsl.latest
 - todo
@@ -58,7 +58,7 @@
 - **`&domain`** 引导用户更换域名访问 LittleSkin 主站
 
 ## &mail
-- **`&mail`** 引导用户向support@littlesk.in发送邮件工单
+- **`&mail`** 引导用户向 `support📧littlesk.in` 发送邮件工单
 
 ## &ban
 - **`&ban add <@somebody>`** <Badge text="仅管理员" type="warning"/>  
