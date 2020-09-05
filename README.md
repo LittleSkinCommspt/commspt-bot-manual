@@ -2,7 +2,6 @@
 
 <h3>欢迎浏览 LittleSkin 社区支持机器人使用手册！</h3>
 
-
 你可以在 [指令](commands.md) 页面查看所有可以使用的指令，[功能](functions.md) 页面则列出了机器人支持的一些神必功能。
 
 ---
@@ -15,31 +14,29 @@
 机器人会经常对指令和功能做出更新，快速的更新导致文档中所述的内容可能会落后于实际情况，并且指令可能遭遇破坏性更改。请务必以源代码为准。
 :::
 
-~~要注意的是，**本文档暂时不具有有效性**。我们需要有人维护此文档，如果你有意愿，请往下看。~~
-
-> 此文档已由 [bingling_sama](https://github.com/bingling-sama) 接手维护工作，同步 LittleSkin 社区支持鸡气壬进行更新
-
 ::: tip 维护者
 此机器人和此文档均由 [LittleSkinCommspt](https://github.com/LittleSkinCommspt) 维护，[LittleSkin](https://littlesk.in/) 运营组以及 CustomSkinLoader 开发人员提供了一些对开发有帮助的建议。
 
-> *LittleSkinCommspt* 指 LittleSkin 社区技术支持组，社区技术支持并非由运营组提供，但相关人员是由运营组钦定的。
+> _LittleSkinCommspt_ 指 LittleSkin 社区技术支持组，社区技术支持并非由运营组提供，但相关人员是由运营组钦定的。
 
 此机器人及文档的主要维护者如下：
-- [Xiao\_Jin](https://github.com/jinzhijie) (developer) （初三/忙碌）
+
+- [Xiao_Jin](https://github.com/jinzhijie) (developer) （初三/忙碌）
+- [冰凌 sama](https://github.com/bingling-sama) (document contributor) （初三/忙碌）
 - [Restent Ou](https://github.com/Restent) (maintainer) （初三/忙碌）
 - [Fidel](https://github.com/Fidelxyz) (contributor) （高一/忙碌）
-- [冰凌sama](https://github.com/bingling-sama) (contributor) （初三/忙碌）
-- [CursoR_光标](https://github.com/CursoR-S) (maintainer) （开学/忙碌）
+- [CursoR\_光标](https://github.com/CursoR-S) (maintainer) （开学/忙碌）
+- 其他贡献者们 <sup>[[1]](https://github.com/LittleSkinCommspt/commspt-bot-manual/graphs/contributors) [[2]](https://github.com/LittleSkinCommspt/commspt-bot/graphs/contributors)</sup>
 
-**📣 我们急需有人接手开发 & 维护此项目**，如果你熟悉 Python3 的语法，能够理解 [现有代码](https://github.com/LittleSkinCommspt/commspt-bot) 以及 [Graia Framework](https://github.com/GraiaProject/Application) 的文档（如果还是 LittleSkin 的用户就更好了），欢迎发送邮件到 `support📧commspt.littlesk.in`！
+**📣 我们希望与你一起维护此项目**，如果你熟悉 Python3 的语法，能够理解 [现有代码](https://github.com/LittleSkinCommspt/commspt-bot) 以及 [Graia Framework](https://github.com/GraiaProject/Application) 的文档（如果还是 LittleSkin 的用户就更好了），欢迎发送邮件到 `support📧commspt.littlesk.in`！
 :::
 
 ::: warning 与 Constance 的兼容性
-为了方便用户交流，LittleSkin 运营组建立了在 *Telegram* 和 *QQ* 间转发消息的消息同步机器人 *Constance*。
+为了方便用户交流，LittleSkin 运营组建立了在 _Telegram_ 和 _QQ_ 间转发消息的消息同步机器人 _Constance_。
 
 由于 Constance 的特殊性，我们只能兼容大多数指令和功能。
 
-如果你的 Telegram 昵称中含有 `: `（我们将此符号视为昵称与消息体的分隔符），机器人可能无法正常工作。  
+如果你的 Telegram 昵称中含有 `:`（我们将此符号视为昵称与消息体的分隔符），机器人可能无法正常工作。  
 由于 [UMR](https://github.com/JQ-Networks/UnifiedMessageRelay) 的局限性，在 Telegram 群组中试图 @ QQ 群成员时，机器人也可能无法正常工作。
 :::
 
@@ -58,5 +55,3 @@
 
 本文中的部分内容引用自 [LittleSkin 用户使用手册](https://manual.littlesk.in/)。
 :::
-
-[https://manual.littlesk.in/user-group.html#%E4%B8%BB%E7%94%A8%E6%88%B7%E7%BE%A4]: 
