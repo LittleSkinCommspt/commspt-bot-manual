@@ -1,19 +1,18 @@
-# LittleSkin 社区支持机器人使用手册
+# LITTLESKIN COMMSPT-BOT MANUAL
 
 <h3>欢迎浏览 LittleSkin 社区支持机器人使用手册！</h3>
 
-此机器人已在 [LittleSkin 官方用户交流群](https://manual.littlesk.in/user-group.html#qq-%E7%BE%A4) 中启用。
 
-你可以在 [指令](commands.md) 页面查看所有可以使用的指令。
+你可以在 [指令](commands.md) 页面查看所有可以使用的指令，[功能](functions.md) 页面则列出了机器人支持的一些神必功能。
 
-::: danger 警告
-任何人都可以合理的使用此机器人，但是请不要滥用，否则，我们将会取消你使用机器人的资格。
+---
+
+::: danger 关于滥用
+任何人都可以合理的使用此机器人。滥用会导致你永久失去与机器人交互的权利。
 :::
 
-::: tip 升级啦
-我们将框架替换为了 Graia Framework，并对指令做出了改动和增加。目前，开发已基本结束，机器人可以正常运行。
-
-要注意的是，**本文档暂时不具有有效性**。我们需要有人维护此文档，如果你有意愿，请往下看。
+::: warning 时效性
+机器人会经常对指令和功能做出更新，快速的更新导致文档中所述的内容可能会落后于实际情况，并且指令可能遭遇破坏性更改。请务必以源代码为准。
 :::
 
 ::: tip 维护者
@@ -32,16 +31,18 @@
 :::
 
 ::: warning 与 Constance 的兼容性
-为了方便用户交流，LittleSkin 运营组建立了在 *Telegram* 和 *QQ* 间转发消息的消息同步机器人 *Constance*。  
-对于 Constance，我们做了特殊优化。但由于 Constance 的特殊性，我们只能兼容大多数指令，一部分指令并不能正常工作；另外，如果你的 Telegram 昵称中含有全角字符 `：` 的话，机器人也无法正常识别你的指令。
+为了方便用户交流，LittleSkin 运营组建立了在 *Telegram* 和 *QQ* 间转发消息的消息同步机器人 *Constance*。
 
-指令中含有以下内容的也不能被正常识别：
-- at
-- Reply
+由于 Constance 的特殊性，我们只能兼容大多数指令和功能。
+
+如果你的 Telegram 昵称中含有 `: `（我们将此符号视为昵称与消息体的分隔符），机器人可能无法正常工作。  
+由于 [UMR](https://github.com/JQ-Networks/UnifiedMessageRelay) 的局限性，在 Telegram 群组中试图 @ QQ 群成员时，机器人也可能无法正常工作。
 :::
 
 ::: tip 源代码
 得益于 [Mirai](https://github.com/mamoe/mirai) & [mirai-http-api](https://github.com/project-mirai/mirai-api-http) & [Graia Framework](https://github.com/GraiaProject/Application) 等优秀的开源项目，我们使用 [Python3](https://www.python.org/) 开发了这个机器人。
+
+我们使用 AGPL-3.0 作为许可证，与上游项目保持一致。
 
 你可以在 [GitHub](https://github.com/LittleSkinCommspt/commspt-bot) 找到此机器人的源代码，我们欢迎你为 LittleSkin 做出任何贡献！ ~~即使可能有些微不足道~~
 
