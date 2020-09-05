@@ -17,7 +17,7 @@
 
 ~~要注意的是，**本文档暂时不具有有效性**。我们需要有人维护此文档，如果你有意愿，请往下看。~~
 
-> 此文档已由 [bingling_sama](https://github.com/bingling-sama) 接手维护工作，同步 littleskin 社区支持鸡气壬进行更新
+> 此文档已由 [bingling_sama](https://github.com/bingling-sama) 接手维护工作，同步 LittleSkin 社区支持鸡气壬进行更新
 
 ::: tip 维护者
 此机器人和此文档均由 [LittleSkinCommspt](https://github.com/LittleSkinCommspt) 维护，[LittleSkin](https://littlesk.in/) 运营组以及 CustomSkinLoader 开发人员提供了一些对开发有帮助的建议。
