@@ -33,7 +33,8 @@
 - 对角色名回复 **`$csl`** 使用被回复的消息中的文本作为角色名进行查询，同时返回材质预览
 - **`&csl.log`** 引导用户上传 CustomSkinLoader 日志至 <https://pastebin.aosc.io/>
 - **`&csl.config`** 引导用户手动修改 CustomSkinLoader 的配置文件
-- **`$csl.latest`** 获取 CustomSkinLoader 最新版本
+- **`&csl.latest`** 获取 CustomSkinLoader 最新版本
+- **`&csl.gui`** 获取 CustomSkinLoaderGUI 最新地址
 
 ## &ygg
 - **`&ygg <player_name>`**  获取 `<player_name>` 的角色信息（含 UUID），同时返回 `provider` 为 LittleSkin 的材质预览
@@ -42,7 +43,7 @@
 - **`&ygg.server.jvm`**  引导用户添加参数并将产生的日志上传直群文件
 - **`&ygg.latest`** 获取 authlib-injector 最新版本
 - **`&ygg.client.refresh`** 刷新客户端 Yggdrasil 认证用户状态
-- **`$ygg.url`** 提示添加认证服务器时需要填入的 URL
+- **`&ygg.url`** 提示添加认证服务器时需要填入的 URL
 
 ## &clfcsl.latest
 - **`&clfcsl.latest`** 引导用户在 1.7.10 中使用 [CompatibilityLayerForCustomSkinLoader](https://www.mcbbs.net/thread-1109996-1-1.html) 来兼容新版 CustomSkinLoader
