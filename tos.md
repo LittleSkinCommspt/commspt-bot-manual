@@ -28,7 +28,7 @@
 
 由于封禁会导致群聊的一些服务无法使用，在你觉得该封禁有异议时可以进行申诉。
 
-如果你对封禁有异议，你可以选择发送邮件至 Restent@commspt.littlesk.in 提出申诉。
+如果你对封禁有异议，你可以选择发送邮件至 [Restent@commspt.littlesk.in](mailto:Restent@commspt.littlesk.in) 提出申诉。
 
 在发送申诉之前，请注意以下内容：
 
