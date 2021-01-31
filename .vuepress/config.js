@@ -14,6 +14,7 @@ module.exports = {
     editLinkText: '帮助我们完善这个页面',
     sidebar: [
       ['/', '欢迎页'],
+      ['/tos', '条例'],
       ['/commands', '指令'],
       ['/functions', '功能'],
     ],
