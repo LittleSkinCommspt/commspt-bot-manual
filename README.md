@@ -21,7 +21,7 @@
 
 - [Xiao_Jin](https://github.com/jinzhijie) (developer) （初三/忙碌）
 - [冰凌 sama](https://github.com/bingling-sama) (document contributor) （初三/忙碌）
-- [Restent Ou](https://github.com/Restent) (maintainer) （初三/忙碌）
+- null
 - [Fidel](https://github.com/Fidelxyz) (contributor) （高一/忙碌）
 - [CursoR\_光标](https://github.com/CursoR-S) (maintainer) （开学/忙碌）
 - 其他贡献者们 <sup>[[1]](https://github.com/LittleSkinCommspt/commspt-bot-manual/graphs/contributors) [[2]](https://github.com/LittleSkinCommspt/commspt-bot/graphs/contributors)</sup>
