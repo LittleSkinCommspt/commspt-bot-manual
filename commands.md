@@ -25,6 +25,9 @@
 ## &faq
 - **`&faq`** 引导用户看常见问题解答
 
+## &pay.for.help
+- **`&pay.for.help`** 提示用户使用 LittleSkin 官方付费帮助服务
+
 ## &ot
 - **`&ot`** 提醒在 CSL 交流群和 LittleSkin 主用户群划水的用户前往咖啡馆
 
