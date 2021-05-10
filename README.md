@@ -4,7 +4,7 @@
 
 请阅读 [条例](tos.md) 了解使用机器人的相关条例。
 
-你可以在 [指令](commands.md) 页面查看所有可以使用的指令，[功能](functions.md) 页面则列出了机器人支持的一些神必功能。
+你可以在 [指令](commands.md) 页面查看所有可以使用的指令，[功能](functions.md) 页面则列出了机器人支持的一些神秘功能。
 
 ---
 
@@ -22,12 +22,12 @@
 - [Xiao_Jin](https://github.com/jinzhijie) (developer) （初三/忙碌）
 - [冰凌 sama](https://github.com/bingling-sama) (document contributor) （初三/忙碌）
 - [FlyEmoji-表情酱](https://github.com/FLYEMOJ1) (document contributor) (高一/忙碌)
-- null
+- [Cubik65536](https://github.com/Cubik65536) (document contributor)
 - [Fidel](https://github.com/Fidelxyz) (contributor) （高一/忙碌）
 - [CursoR\_光标](https://github.com/CursoR-S) (maintainer) （开学/忙碌）
 - 其他贡献者们 <sup>[[1]](https://github.com/LittleSkinCommspt/commspt-bot-manual/graphs/contributors) [[2]](https://github.com/LittleSkinCommspt/commspt-bot/graphs/contributors)</sup>
 
-**📣 我们希望与你一起维护此项目**，如果你熟悉 Python3 的语法，能够理解 [现有代码](https://github.com/LittleSkinCommspt/commspt-bot) 以及 [Graia Framework](https://github.com/GraiaProject/Application) 的文档（如果还是 LittleSkin 的用户就更好了），欢迎发送邮件到 `support📧commspt.littlesk.in`！
+**📣 我们希望与你一起维护此项目**，如果你熟悉 Python3 的语法，能够理解 [现有代码](https://github.com/LittleSkinCommspt/commspt-bot) 以及 [Graia Framework](https://github.com/GraiaProject/Application) 的文档（如果还是 LittleSkin 的用户就更好了），欢迎联系我们！
 :::
 
 ::: warning 与 Constance 的兼容性

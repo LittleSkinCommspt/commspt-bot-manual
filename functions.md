@@ -8,6 +8,7 @@
 
 [[toc]]
 
+<!--
 ## 解析 CustomSkinLoader 日志
 
 当群成员在群内发出 CustomSkinLoader 的日志在 <https://pastebin.aosc.io/> 的链接后（例如 `https://pastebin.aosc.io/paste/a5VjOsMr3W4rg~V4vmg-jg`），机器人将自动解析日志，提取关键信息并提供问题报告。
@@ -16,9 +17,9 @@
 
 > Q: 那为什么不用呢？  
 > A: 懒
+-->
 
 ## 生草复读机
-
 当群成员在群内发出符合正则表达式 `^草*$` 的消息时，机器人将回复 `草\u202e`，`\u202e` 是一个 Unicode 控制字符（RLO），旨在防止 QQ 的 `+1`（万恶之源）。
 <panel-view title="生草复读机">
 <chat-message nickname="Alex" color="#cc0066">草草草</chat-message>
@@ -26,7 +27,6 @@
 </panel-view>
 
 ## 敏感词检测
-
 当群成员在群内发出的消息中含有敏感词列表中的词语时，将产生以下示例对话。敏感词无法在此文档中展示，如需了解请自行翻阅源码。
 <panel-view title="敏感词检测">
 <chat-message nickname="Alex" color="#cc0066">富强民主\<敏感词\>文明和谐</chat-message>
@@ -36,7 +36,7 @@
 ## 我就是想问「为什么」
 一般来说，在 LittleSkin 主用户群中的提问者在提问词中不免提到「为什么」这三个字。当提问者的问题符合正则表达式 `^为什么.*` 或 `^请问.*` 或 `^问一下.*` 时，此消息将会被**回复**到运营组与社区技术支持组的通知群内，以方便我们处理问题。
 
-如果你注意到其他的提问词，请打开一个 [issues](https://github.com/LittleSkinCommspt/commspt-bot/issues/new/choose)。
+如果你注意到其他的提问词，请提交一个 [issues](https://github.com/LittleSkinCommspt/commspt-bot/issues/new/choose)。
 
 
 <!-- ## 自动刷新群名片
