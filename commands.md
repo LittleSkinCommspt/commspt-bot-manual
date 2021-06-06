@@ -16,19 +16,19 @@
 - **`&help`** 指令帮助，引导用户查看该文档
 
 ## &ot
-- **`&ot`** 引导在LittleSkin 主用户群与CSL交流群闲聊的用户前往咖啡馆
+- **`&ot`**  '这里不是闲聊的地方！' 引导在LittleSkin 主用户群与CSL交流群闲聊的用户前往咖啡馆
 
 ## &manual
-- **`&manual`** 引导用户查看LittleSkin用户手册来寻找答案
+- **`&manual`** '您先看看手册吧 ~~我给您跪下了~~' 引导用户查看LittleSkin用户手册来寻找答案
 
 ## &domain
-- **`&domain`** 引导用户使用其他的域名访问LittleSkin
+- **`&domain`** '~~哟 这又来一个被百度毒害的用户~~' 引导用户使用其他的域名访问LittleSkin
 
 ## &mail
-- **`&mail`** 引导用户向 `support📧littlesk.in` 发送邮件工单
+- **`&mail`** '您这个问题可以发邮件和我们探讨探讨' 引导用户向 `support📧littlesk.in` 发送邮件工单
 
 ## &browser
-- **`&browser`** 引导用户更换浏览器
+- **`&browser`** '~~哇 您这浏览器是上世纪八十年代的东西吧~~' 引导用户更换浏览器
 
 ## &view
 - **`&view <player_name>`** 获取`<player_name>`的材质预览
