@@ -21,7 +21,7 @@
 
 - [Xiao_Jin](https://github.com/jinzhijie) (developer) （初三/忙碌）
 - [冰凌 sama](https://github.com/bingling-sama) (document contributor) （初三/忙碌）
-- [FlyEmoji-表情酱](https://github.com/FLYEMOJ1) (document contributor) (高一/忙碌)
+- [FlyEmoji-表情酱](https://github.com/FLYEMOJ1) (document contributor) (高一/忙碌) (~~文档整活哥~~)
 - [Cubik65536](https://github.com/Cubik65536) (document contributor)
 - [Fidel](https://github.com/Fidelxyz) (contributor) （高一/忙碌）
 - [CursoR\_光标](https://github.com/CursoR-S) (maintainer) （开学/忙碌）
