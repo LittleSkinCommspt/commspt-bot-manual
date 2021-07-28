@@ -44,9 +44,9 @@
 
 我们使用 AGPL-3.0 作为许可证，与上游项目保持一致。
 
-你可以在 [GitHub](https://github.com/LittleSkinCommspt/commspt-bot) 找到此机器人的源代码，我们欢迎你为 LittleSkin 做出任何贡献！ ~~即使可能有些微不足道~~
+你可以在 [GitHub](https://github.com/LittleSkinCommspt/commspt-bot) 找到此机器人的源代码，我们欢迎你为 LittleSkin 做出任何贡献！ ~~即使是“微小的工作”~~
 
-欢迎打开新的 [Issues](https://github.com/LittleSkinCommspt/commspt-bot/issues) 进行探讨交流。我们聆听你宝贵的意见。
+欢迎打开新的 [Issues](https://github.com/LittleSkinCommspt/commspt-bot/issues) 进行探讨交流。我们将会聆听您宝贵的意见。
 :::
 
 ::: tip 许可证
