@@ -35,7 +35,8 @@
 
 ## &csl
 - **`&csl <player_name>`** 获取`<player_name>`的角色信息并返回该玩家的材质哈希值
-- **`&csl.latest`** 获取 CustomSkinLoader 最新版本
+- **`&csl.latest forge`** 获取最新的 Forge 版 CustomSkinLoader
+- **`&csl.latest fabric`** 获取最新的 Fabric 版 CustomSkinLoader
 - **`&csl.log`** 引导用户找到并上传 CustomSkinLoader 日志至 [https://pastebin.aosc.io/](https://pastebin.aosc.io/)
 - **`&csl.gui`** 获取 CustomSkinLoaderGUI 最新地址
 
