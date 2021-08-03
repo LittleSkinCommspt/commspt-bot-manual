@@ -21,9 +21,6 @@
 ## &manual
 - **`&manual`** '您先看看手册吧 ~~我给您跪下了~~' 引导用户查看LittleSkin用户手册来寻找答案
 
-## &domain
-- **`&domain`** '~~哟 这又来一个被百度毒害的用户~~' 引导用户使用其他的域名访问LittleSkin
-
 ## &mail
 - **`&mail`** '您这个问题可以发邮件和我们探讨探讨' 引导用户向 `support📧littlesk.in` 发送邮件工单
 
