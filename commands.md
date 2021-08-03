@@ -31,7 +31,8 @@
 - **`&browser`** '~~哇 您这浏览器是上世纪八十年代的东西吧~~' 引导用户更换浏览器
 
 ## &view
-- **`&view <player_name>`** 获取`<player_name>`的材质预览
+- **`&view <player_name>`** 获取`<player_name>`的皮肤预览
+- **`&view.mojang <player_name>`** 获取`<player_name>`的正版皮肤预览
 
 ## &csl
 - **`&csl <player_name>`** 获取`<player_name>`的角色信息并返回该玩家的材质哈希值
