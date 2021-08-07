@@ -45,3 +45,7 @@
 - **`&ygg.nsis`** No Skin in Server，引导用户需正确配置服务端
 - **`&ygg.client.refresh`** 引导用户刷新客户端 Yggdrasil 认证用户状态
 - **`&ygg.url`** 提示添加认证服务器时需要填入的 URL
+
+## &log.*
+- **`&log.minecraft`** 引导用户导出 Minecraft 客户端的日志
+- **`&log.launcher`** 引导用户导出启动器的日志
