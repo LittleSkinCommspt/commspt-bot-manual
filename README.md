@@ -13,7 +13,7 @@
 :::
 
 ::: tip 维护者
-此机器人和此文档均由 [LittleSkinCommspt](https://github.com/LittleSkinCommspt) 维护，[LittleSkin](https://littlesk.in/) 运营组以及 CustomSkinLoader 开发人员提供了一些对开发有帮助的建议。
+此机器人和文档均由 [LittleSkinCommspt](https://github.com/LittleSkinCommspt) 维护，[LittleSkin 运营组](https://github.com/LittleSkinChina) 以及 [CustomSkinLoader 开发人员](https://github.com/xfl03/MCCustomSkinLoader)提供了一些对开发有帮助的建议。
 
 > _LittleSkinCommspt_ 指 LittleSkin 社区技术支持组，社区技术支持并非由运营组提供，但相关人员是由运营组钦定的。
 
