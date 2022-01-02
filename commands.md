@@ -49,3 +49,7 @@
 ## &log.*
 - **`&log.minecraft`** 引导用户导出 Minecraft 客户端的日志
 - **`&log.launcher`** 引导用户导出启动器的日志
+
+## &*.latest
+- **`&java.latest`** 引导用户从 Mcbbs 镜像下载最新的 Java 版本
+- **`&hmcl.latest`** 引导用户从 HMCL 的 Jenkins 下载最新的 HMCL 开发版
