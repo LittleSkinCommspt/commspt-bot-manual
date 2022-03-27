@@ -13,10 +13,22 @@ module.exports = {
     editLinks: true,
     editLinkText: '帮助我们完善这个页面',
     sidebar: [
-      ['/', '欢迎页'],
-      ['/tos', '条例'],
-      ['/commands', '指令'],
-      ['/functions', '功能'],
+      {
+        text: '欢迎页',
+        link: '/',
+      },
+      {
+        text: '条例',
+        link: '/tos.html',
+      },
+      {
+        text: '指令',
+        link: '/commands.html',
+      },
+      {
+        text: '功能',
+        link: '/functions.html',
+      },
     ],
     smoothScroll: true,
     lastUpdated: '上次更新',
