@@ -17,6 +17,7 @@ module.exports = {
       ['/tos', '条例'],
       ['/commands', '指令'],
       ['/functions', '功能'],
+      ['/hall-of-jail', 'TOS 违规公告'],
     ],
     smoothScroll: true,
     lastUpdated: '上次更新',
