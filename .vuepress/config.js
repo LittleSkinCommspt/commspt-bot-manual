@@ -1,3 +1,5 @@
+const { path } = require('@vuepress/utils')
+
 module.exports = {
   title: 'LittleSkin 社区支持机器人使用手册',
   description: 'LittleSkin 社区支持机器人使用手册',
@@ -22,5 +24,10 @@ module.exports = {
     smoothScroll: true,
     lastUpdated: '上次更新',
   },
+  plugins: [
+    registerComponentsPlugin({
+      componentsDir: path.resolve(__dirname, './components'),
+    }),
+  ],
   evergreen: true,
 };
