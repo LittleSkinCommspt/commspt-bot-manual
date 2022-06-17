@@ -28,7 +28,6 @@ export default defineUserConfig({
     docsBranch: 'master',
     editLinks: true,
     editLinkText: '帮助我们完善这个页面',
-    sidebar: 
     smoothScroll: true,
     lastUpdated: '上次更新',
   },
