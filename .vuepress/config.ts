@@ -14,9 +14,8 @@ export default defineUserConfig({
     docsBranch: 'master',
     editLinkPattern: ':repo/edit/:branch/:path',
     editLinkText: '帮助我们完善这个页面',
-    lastUpdated: 'true',
     lastUpdatedText: '上次更新',
-    contributors: 'false',
+    contributors: false,
     sidebar: [
       {
         text: '欢迎页',
