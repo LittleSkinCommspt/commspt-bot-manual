@@ -16,6 +16,7 @@ export default defineUserConfig({
     editLinkText: '帮助我们完善这个页面',
     lastUpdated: 'true',
     lastUpdatedText: '上次更新',
+    contributors: 'false',
     sidebar: [
       {
         text: '欢迎页',
