@@ -23,19 +23,19 @@ export default defineUserConfig({
       },
       {
         text: '条例',
-        link: '/tos.md',
+        link: '/tos.html',
       },
       {
         text: '指令',
-        link: '/commands.md',
+        link: '/commands.html',
       },
       {
         text: '功能',
-        link: '/functions.md',
+        link: '/functions.html',
       },
       {
         text: 'TOS 违规公告',
-        link: '/hall-of-jail.md',
+        link: '/hall-of-jail.html',
       },
     ],
   }),
