@@ -43,6 +43,13 @@ export default defineUserConfig({
     registerComponentsPlugin({
       componentsDir: path.resolve(__dirname, './components'),
     }),
+    searchPlugin({
+      locales: {
+        '/': {
+          placeholder: '搜索',
+        },
+      },
+    }),
   ],
   evergreen: true,
 })
