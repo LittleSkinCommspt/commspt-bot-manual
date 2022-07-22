@@ -28,7 +28,7 @@
 -->
 
 ## 生草复读机
-当群成员在群内发出符合正则表达式 `^草*$` 的消息时，机器人将回复 `草\u202e`，`\u202e` 是一个 Unicode 控制字符（RLO），旨在防止 QQ 的 `+1`（~~禁止随地生草!~~）。
+当群成员在群内发出符合正则表达式 `^草+$` 的消息时，机器人将回复 `草\u202e`，`\u202e` 是一个 Unicode 控制字符（RLO），旨在防止 QQ 的 `+1`（~~禁止随地生草!~~）。
 <panel-view title="生草复读机">
 <chat-message nickname="Alex" color="#cc0066">草草草</chat-message>
 <chat-message nickname="Bot" :avatar="$withBase('/favicon.png')">草</chat-message>
