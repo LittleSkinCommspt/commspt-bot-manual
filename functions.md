@@ -28,7 +28,7 @@
 -->
 
 ## 生草复读机
-当群成员在群内发出符合正则表达式 `^草*$` 的消息时，机器人将回复 `草\u202e`，`\u202e` 是一个 Unicode 控制字符（RLO），旨在防止 QQ 的 `+1`（~~禁止随地生草!~~）。
+当群成员在群内发出符合正则表达式 `^草+$` 的消息时，机器人将回复 `草\u202e`，`\u202e` 是一个 Unicode 控制字符（RLO），旨在防止 QQ 的 `+1`（~~禁止随地生草!~~）。
 <panel-view title="生草复读机">
 <chat-message nickname="Alex" color="#cc0066">草草草</chat-message>
 <chat-message nickname="Bot" :avatar="$withBase('/favicon.png')">草</chat-message>
@@ -37,7 +37,7 @@
 ## 敏感词检测
 <Badge text="未实装" type="warning"/> 当群成员在群内发出的消息中含有敏感词列表中的词语时，将产生以下示例对话。敏感词无法在此文档中展示，如需了解请自行翻阅源码。
 <panel-view title="敏感词检测">
-<chat-message nickname="Alex" color="#cc0066">富强民主\<敏感词\>文明和谐</chat-message>
+<chat-message nickname="Alex" color="#cc0066">富强民主\&lt;敏感词\>文明和谐</chat-message>
 <chat-message nickname="Bot" :avatar="$withBase('/favicon.png')">请不要在此群中讨论有关话题！</chat-message>
 </panel-view>
 

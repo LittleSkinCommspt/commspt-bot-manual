@@ -51,5 +51,5 @@
 - **`&log.launcher`** 引导用户导出启动器的日志
 
 ## &*.latest
-- **`&java.latest`** 引导用户从 Mcbbs 镜像下载最新的 Java 版本
-- **`&hmcl.latest`** 引导用户从 HMCL 的 Jenkins 下载最新的 HMCL 开发版
+- **`&java.latest`** 引导用户从 BellSoft 下载最新的 Java 8 LTS
+- **`&hmcl.latest`** 引导用户下载 HMCL 启动器
