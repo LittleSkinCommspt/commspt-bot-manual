@@ -6,10 +6,16 @@
 
 你可以在 [指令](commands.md) 页面查看所有可以使用的指令，[功能](functions.md) 页面则列出了机器人支持的一些神秘功能。
 
----
+::: tip
+
+机器人手册已经试行使用 VuePress Next 版本！如果你在阅读时遇到了任何 Bug，欢迎在我们对应的 [GitHub 仓库](https://github.com/LittleSkinCommspt/commspt-bot-manual) 提交 Issue！
+
+:::
+
+***
 
 ::: warning 时效性
-机器人会经常对指令和功能做出更新，快速的更新导致文档中所述的内容可能会落后于实际情况，并且指令可能遭遇破坏性更改。请务必以源代码为准。
+机器人可能会时常更新一些指令和功能，而并没有及时更新手册，因此本手册有可能落后于实际情况。具体请以源代码为准。
 :::
 
 ::: tip 维护者
@@ -19,12 +25,13 @@
 
 此机器人及文档的主要维护者如下：
 
-- [Xiao_Jin](https://github.com/jinzhijie) (developer) （初三/忙碌）
-- [冰凌 sama](https://github.com/bingling-sama) (document contributor) （初三/忙碌）
-- [FlyEmoji-表情酱](https://github.com/FLYEMOJ1) (document contributor) (高一/忙碌) (~~文档整活哥~~)
-- [Cubik65536](https://github.com/Cubik65536) (document contributor)
-- [Fidel](https://github.com/Fidelxyz) (contributor) （高一/忙碌）
-- [CursoR\_光标](https://github.com/CursoR-S) (maintainer) （开学/忙碌）
+- [Xiao_Jin](https://github.com/jinzhijie) (developer) (Busy)
+- [冰凌 sama](https://github.com/bingling-sama) (document contributor) (Busy)
+- [FlyEmoji-表情酱](https://github.com/FLYEMOJ1) (document contributor) (Busy) (~~文档整活哥~~)
+- [Cubik65536](https://github.com/Cubik65536) (document contributor) (Busy)
+- [Fidel](https://github.com/Fidelxyz) (contributor) (Busy)
+- [CursoR\_光标](https://github.com/CursoR-S) (maintainer) (Busy)
+- [Restent Ou](https://github.com/Restent) (Publisher) (Free)
 - 其他贡献者们 <sup>[[1]](https://github.com/LittleSkinCommspt/commspt-bot-manual/graphs/contributors) [[2]](https://github.com/LittleSkinCommspt/commspt-bot/graphs/contributors)</sup>
 
 **📣 我们希望与你一起维护此项目**，如果你熟悉 Python3 的语法，能够理解 [现有代码](https://github.com/LittleSkinCommspt/commspt-bot) 以及 [Graia Framework](https://github.com/GraiaProject/Application) 的文档（如果还是 LittleSkin 的用户就更好了），欢迎联系我们！
