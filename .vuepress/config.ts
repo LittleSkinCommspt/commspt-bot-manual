@@ -12,7 +12,7 @@ export default defineUserConfig({
   head: [['link', { rel: 'icon', href: '/favicon.png' }]],
   theme: defaultTheme({
     docsRepo: 'https://github.com/LittleSkinCommspt/commspt-bot-manual',
-    docsBranch: 'master',
+    docsBranch: 'vuepress-2.x',
     editLinkPattern: ':repo/edit/:branch/:path',
     editLinkText: '帮助我们完善这个页面',
     lastUpdatedText: '上次更新',
