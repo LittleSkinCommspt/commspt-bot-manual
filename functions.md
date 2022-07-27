@@ -18,7 +18,7 @@
 
 ## 解析 CustomSkinLoader 日志
 
-当群成员在群中上传了 CustomSkinLoader 的日志文件 `CustomSkinLoader.json` 后，机器人将自动下载文件并解析日志，提取关键信息并提供问题报告。
+当群成员在群中上传了 CustomSkinLoader 的日志文件 `CustomSkinLoader.log` 后，机器人将自动下载文件并解析日志，提取关键信息并提供问题报告。
 :::tip
 目前机器人主要会检测四方面错误：
 - 是否在 Minecraft 1.7.10 中加载了 Alex 模型的皮肤
