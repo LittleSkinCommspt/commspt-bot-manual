@@ -16,16 +16,9 @@
  > A: ~~诶我就是懒得写，就是玩~~
 :::
 
-<!--
 ## 解析 CustomSkinLoader 日志
 
-当群成员在群内发出 CustomSkinLoader 的日志在 <https://pastebin.aosc.io/> 的链接后（例如 `https://pastebin.aosc.io/paste/a5VjOsMr3W4rg~V4vmg-jg`），机器人将自动解析日志，提取关键信息并提供问题报告。
-
-需要注意的是，由于没有使用 `aiohttp` 这个异步库，解析日志时将会阻塞其他指令运行 ~~（便秘）~~
-
-> Q: 那为什么不用呢？  
-> A: 懒
--->
+当群成员在群中上传了 CustomSkinLoader 的日志文件 `CustomSkinLoader.json` 后，机器人将自动下载文件并解析日志，提取关键信息并提供问题报告。
 
 ## 生草复读机
 当群成员在群内发出符合正则表达式 `^草+$` 的消息时，机器人将回复 `草\u202e`，`\u202e` 是一个 Unicode 控制字符（RLO），旨在防止 QQ 的 `+1`（~~禁止随地生草!~~）。
