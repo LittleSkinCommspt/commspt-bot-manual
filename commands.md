@@ -64,8 +64,8 @@
 - **`&log.launcher`** 引导用户导出启动器的日志
 
 ## &*.latest
-- **`&java.latest`** 引导用户下载 BellSoft Java 17
-- **`&java8.latest`** 引导用户下载 BellSoft Java 8
+- **`&java.latest`** 引导用户下载 BellSoft Liberica JDK 17
+- **`&java8.latest`** 引导用户下载 BellSoft Liberica JDK 8
 - **`&hmcl.latest`** 引导用户下载 HMCL 启动器
 
 ###### 请注意，接下来的指令需要对机器人具有管理权限，并且机器人需要有群管理权限。
