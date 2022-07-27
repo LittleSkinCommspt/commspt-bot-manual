@@ -19,6 +19,13 @@
 ## 解析 CustomSkinLoader 日志
 
 当群成员在群中上传了 CustomSkinLoader 的日志文件 `CustomSkinLoader.json` 后，机器人将自动下载文件并解析日志，提取关键信息并提供问题报告。
+:::tip
+目前机器人主要会检测四方面错误：
+- 是否在 Minecraft 1.7.10 中加载了 Alex 模型的皮肤
+- 是否使用过时的 CustomSkinLoader 版本
+- 是否出现网络请求超时
+- 是否出现 SSL 错误
+:::
 
 ## 生草复读机
 当群成员在群内发出符合正则表达式 `^草+$` 的消息时，机器人将回复 `草\u202e`，`\u202e` 是一个 Unicode 控制字符（RLO），旨在防止 QQ 的 `+1`（~~禁止随地生草!~~）。
