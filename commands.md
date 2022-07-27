@@ -18,6 +18,10 @@
 ## &ot
 - **`&ot`**  '这里不是闲聊的地方！' 引导在LittleSkin 主用户群与CSL交流群闲聊的用户前往咖啡馆
 
+::: tip
+此功能仅限在 LittleSkin 用户大群中使用，其他群中机器人对于此命令将不会 响应。
+:::
+
 ## &manual
 - **`&manual`** '您先看看手册吧 ~~我给您跪下了~~' 引导用户查看LittleSkin用户手册来寻找答案
 
@@ -51,5 +55,6 @@
 - **`&log.launcher`** 引导用户导出启动器的日志
 
 ## &*.latest
-- **`&java.latest`** 引导用户从 BellSoft 下载最新的 Java 8 LTS
+- **`&java.latest`** 引导用户从 EdgeLight Api 下载 Bellsoft Java 17
+- **`&java8.latest`** 引导用户从 EdgeLight Api 下载 BellSoft Java 8
 - **`&hmcl.latest`** 引导用户下载 HMCL 启动器
