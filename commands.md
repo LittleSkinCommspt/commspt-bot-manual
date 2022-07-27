@@ -55,6 +55,6 @@
 - **`&log.launcher`** 引导用户导出启动器的日志
 
 ## &*.latest
-- **`&java.latest`** 引导用户从 EdgeLight Api 下载 Bellsoft Java 17
-- **`&java8.latest`** 引导用户从 EdgeLight Api 下载 BellSoft Java 8
+- **`&java.latest`** 引导用户下载 Bellsoft Java 17
+- **`&java8.latest`** 引导用户下载 BellSoft Java 8
 - **`&hmcl.latest`** 引导用户下载 HMCL 启动器
