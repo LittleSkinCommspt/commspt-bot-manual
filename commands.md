@@ -32,7 +32,7 @@
 - **`&msoauth`** 引导使用 Microsoft OAuth 注册 LittleSkin 的用户修改密码
 
 ## &pro_verify
-- **`&pro_verify`** 告知用户 LittleSkin 绑定正版的用处 ~~别再用 LittleSkin 外置登录加入 Hypixel 了~~
+- **`&pro_verify`** 告知用户 LittleSkin 绑定正版的用处 '~~别再用 LittleSkin 外置登录加入 Hypixel 了~~'
 
 ## &browser
 - **`&browser`** '~~哇 您这浏览器是上世纪八十年代的东西吧~~' 引导用户更换浏览器
