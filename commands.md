@@ -37,6 +37,9 @@
 ## &browser
 - **`&browser`** '~~哇 您这浏览器是上世纪八十年代的东西吧~~' 引导用户更换浏览器
 
+## &cape_format
+- **`&cape_format`** 引导用户上传格式合法有效的披风文件
+
 ## &view
 - **`&view <player_name>`** 获取`<player_name>`的皮肤预览
 - **`&view.mojang <player_name>`** 获取`<player_name>`的正版皮肤预览
