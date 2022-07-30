@@ -16,7 +16,7 @@
 - **`&help`** 指令帮助，引导用户查看该文档
 
 ## &ot
-- **`&ot`**  '这里不是闲聊的地方！' 引导在 LittleSkin 主用户群与 CustomSkinLoader 交流群闲聊的用户前往咖啡馆
+- **`&ot`**  '这里不是闲聊的地方！' 引导在 LittleSkin 主用户群闲聊的用户前往 Honoka Café
 
 ::: tip
 此功能仅限在 LittleSkin 用户大群中使用，其他群中机器人对于此命令将不会响应。
