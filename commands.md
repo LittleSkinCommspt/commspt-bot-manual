@@ -34,6 +34,9 @@
 ## &pro_verify
 - **`&pro_verify`** 告知用户 LittleSkin 绑定正版的用处 '~~别再用 LittleSkin 外置登录加入 Hypixel 了~~'
 
+## &network
+- **`&network`** '~~网怎么又挂了~~' 引导用户在自身网络出现问题时排错并检查是否使用了过时的域名
+
 ## &browser
 - **`&browser`** '~~哇 您这浏览器是上世纪八十年代的东西吧~~' 引导用户更换浏览器
 
