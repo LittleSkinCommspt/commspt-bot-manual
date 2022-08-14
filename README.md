@@ -26,7 +26,7 @@
 此机器人及文档的主要维护者如下：
 
 - [Xiao_Jin](https://github.com/jinzhijie) (developer) (Busy)
-- [冰凌 sama](https://github.com/bingling-sama) (document contributor) (Busy)
+- [冰凌 sama](https://github.com/bingling-sama) (developer) (Busy)
 - [FlyEmoji-表情酱](https://github.com/FLYEMOJ1) (document contributor) (Busy) (~~文档整活哥~~)
 - [Cubik65536](https://github.com/Cubik65536) (document contributor) (Busy)
 - [Fidel](https://github.com/Fidelxyz) (contributor) (Busy)
