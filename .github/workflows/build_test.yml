@@ -19,14 +19,14 @@ jobs:
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v1
-        with:
-          node-version: ${{ matrix.node-version }}
-      - uses: actions/cache@v1
-        with:
-          path: node_modules
-          key: npm-cache
-          restore-keys: npm-cache
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    - uses: actions/cache@v1
+      with:
+        path: node_modules
+        key: npm-cache
+        restore-keys: npm-cache
     - run: npm install
     - run: npm run build
