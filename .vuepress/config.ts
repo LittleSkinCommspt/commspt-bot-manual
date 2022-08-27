@@ -11,6 +11,7 @@ export default defineUserConfig({
   description: 'LittleSkin 社区机器人使用手册',
   head: [['link', { rel: 'icon', href: '/favicon.png' }]],
   theme: defaultTheme({
+    logo: '/favicon.png',
     docsRepo: 'https://github.com/LittleSkinCommspt/commspt-bot-manual',
     docsBranch: 'vuepress-2.x',
     editLinkPattern: ':repo/edit/:branch/:path',
