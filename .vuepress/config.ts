@@ -1,4 +1,4 @@
-const { registerComponentsPlugin } = require('@vuepress/plugin-register-components')
+import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
 const { searchPlugin } = require('@vuepress/plugin-search')
 const { path } = require('@vuepress/utils')
 import { defineUserConfig } from 'vuepress'
