@@ -11,6 +11,7 @@
 
 <script>
 export default {
+  name: 'ChatMessage',
   props: {
     nickname: String,
     color: String,

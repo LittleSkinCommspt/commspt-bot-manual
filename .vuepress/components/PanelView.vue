@@ -12,6 +12,7 @@
 
 <script>
 export default {
+  name: 'PanelView',
   props: {
     controls: Boolean,
     title: String,

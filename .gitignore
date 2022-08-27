@@ -90,6 +90,8 @@ dist
 
 # vuepress build output
 .vuepress/dist
+.vuepress/.cache
+.vuepress/.temp
 
 # Serverless directories
 .serverless/
@@ -103,3 +105,6 @@ dist
 # TernJS port file
 .tern-port
 .DS_Store
+
+# Vercel
+.vercel

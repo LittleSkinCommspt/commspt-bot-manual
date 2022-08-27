@@ -53,5 +53,4 @@ export default defineUserConfig({
       },
     }),
   ],
-  evergreen: true,
 })

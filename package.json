@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Community Support QQ bot Manual",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "dev": "vuepress dev .",
     "build": "vuepress build ."
