@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Community Support QQ bot Manual",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "dev": "vuepress dev .",
     "build": "vuepress build ."
@@ -18,9 +19,9 @@
   },
   "homepage": "https://github.com/LittleSkinCommspt/commspt-bot-manual#readme",
   "devDependencies": {
-    "vuepress": "^2.0.0-beta.49",
-    "@vuepress/plugin-register-components": "^2.0.0-beta.49",
-    "@vuepress/plugin-search": "^2.0.0-beta.49",
-    "stylus": "^0.58.1"
+    "vuepress": "2.0.0-beta.50",
+    "@vuepress/plugin-register-components": "2.0.0-beta.50",
+    "@vuepress/plugin-search": "2.0.0-beta.50",
+    "stylus": "^0.59.0"
   }
 }

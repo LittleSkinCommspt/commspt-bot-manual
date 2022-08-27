@@ -1,8 +1,8 @@
-const { registerComponentsPlugin } = require('@vuepress/plugin-register-components')
-const { searchPlugin } = require('@vuepress/plugin-search')
-const { path } = require('@vuepress/utils')
+import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
+import { searchPlugin } from '@vuepress/plugin-search'
+import { path } from '@vuepress/utils'
+import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress'
-const { defaultTheme } = require('@vuepress/theme-default')
 
 export default defineUserConfig({
   base: '/',
@@ -11,6 +11,7 @@ export default defineUserConfig({
   description: 'LittleSkin 社区机器人使用手册',
   head: [['link', { rel: 'icon', href: '/favicon.png' }]],
   theme: defaultTheme({
+    logo: '/favicon.png',
     docsRepo: 'https://github.com/LittleSkinCommspt/commspt-bot-manual',
     docsBranch: 'vuepress-2.x',
     editLinkPattern: ':repo/edit/:branch/:path',
@@ -52,5 +53,4 @@ export default defineUserConfig({
       },
     }),
   ],
-  evergreen: true,
 })
