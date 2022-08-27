@@ -2,7 +2,7 @@ import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
 import { searchPlugin } from '@vuepress/plugin-search'
 import { path } from '@vuepress/utils'
 import { defineUserConfig } from 'vuepress'
-const { defaultTheme } = require('@vuepress/theme-default')
+import { defaultTheme } from '@vuepress/theme-default'
 
 export default defineUserConfig({
   base: '/',
