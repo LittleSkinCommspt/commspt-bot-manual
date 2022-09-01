@@ -39,6 +39,10 @@ export default defineUserConfig({
         text: 'TOS 违规公告',
         link: '/hall-of-jail.html',
       },
+      {
+        text: '维护者',
+        link: '/maintainer.html',
+      },
     ],
   }),
   plugins: [
