@@ -6,6 +6,8 @@
 
 你可以在 [指令](commands.md) 页面查看所有可以使用的指令，[功能](functions.md) 页面则列出了机器人支持的一些神秘功能。
 
+您也可以查阅 [维护者](maintainer.md) 一页以了解有关信息。
+
 ::: tip
 
 机器人手册已经试行使用 VuePress Next 版本！如果你在阅读时遇到了任何 Bug，欢迎在我们对应的 [GitHub 仓库](https://github.com/LittleSkinCommspt/commspt-bot-manual) 提交 Issue！
@@ -16,25 +18,6 @@
 
 ::: warning 时效性
 机器人可能会时常更新一些指令和功能，而并没有及时更新手册，因此本手册有可能落后于实际情况。具体请以源代码为准。
-:::
-
-::: tip 维护者
-此机器人和文档均由 [LittleSkinCommspt](https://github.com/LittleSkinCommspt) 维护，[LittleSkin 运营组](https://github.com/LittleSkinChina) 以及 [CustomSkinLoader 开发人员](https://github.com/xfl03/MCCustomSkinLoader)提供了一些对开发有帮助的建议。
-
-> _LittleSkinCommspt_ 指 LittleSkin 社区技术支持组，社区技术支持并非由运营组提供，但相关人员是由运营组钦定的。
-
-此机器人及文档的主要维护者如下：
-
-- [Xiao_Jin](https://github.com/jinzhijie) (developer) (Busy)
-- [冰凌 sama](https://github.com/bingling-sama) (developer) (Busy)
-- [FlyEmoji-表情酱](https://github.com/FLYEMOJ1) (document contributor) (Busy) (~~文档整活哥~~)
-- [Cubik65536](https://github.com/Cubik65536) (document contributor) (Busy)
-- [Fidel](https://github.com/Fidelxyz) (contributor) (Busy)
-- [CursoR\_光标](https://github.com/CursoR-S) (maintainer) (Busy)
-- [Restent Ou](https://github.com/Restent) (Publisher) (Free)
-- 其他贡献者们 <sup>[[1]](https://github.com/LittleSkinCommspt/commspt-bot-manual/graphs/contributors) [[2]](https://github.com/LittleSkinCommspt/commspt-bot/graphs/contributors)</sup>
-
-**📣 我们希望与你一起维护此项目**，如果你熟悉 Python3 的语法，能够理解 [现有代码](https://github.com/LittleSkinCommspt/commspt-bot) 以及 [Graia Framework](https://github.com/GraiaProject/Application) 的文档（如果还是 LittleSkin 的用户就更好了），欢迎联系我们！
 :::
 
 ::: warning 与 Constance 的兼容性
