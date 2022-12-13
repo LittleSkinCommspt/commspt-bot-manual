@@ -73,6 +73,8 @@
 - **`&java.latest`** 引导用户下载 BellSoft Liberica JDK 17
 - **`&java8.latest`** 引导用户下载 BellSoft Liberica JDK 8
 - **`&hmcl.latest`** 引导用户下载 HMCL 启动器
+- **`&bakaxl.latest`** 引导用户下载 BakaXL 启动器
+- **`&pcl.latest`** 引导用户下载 PCL 启动器
 
 ::: warning
 接下来的指令需要对机器人具有管理权限，并且机器人需要有群管理权限。
