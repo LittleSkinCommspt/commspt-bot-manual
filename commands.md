@@ -18,8 +18,11 @@
 ## &ot
 - **`&ot`**  '这里不是闲聊的地方！' 引导在 LittleSkin 主用户群闲聊的用户前往 Honoka Café
 
+## &cafe
+- **`&ot`**  温柔地建议用户前往 Honoka Café 水群
+
 ::: tip
-此功能仅限在 LittleSkin 用户大群中使用，其他群中机器人对于此命令将不会响应。
+`&ot` 和 `&cafe` 功能仅限在 LittleSkin 用户大群中使用，其他群中机器人对于此命令将不会响应。
 :::
 
 ## &manual
