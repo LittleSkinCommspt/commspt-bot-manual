@@ -16,6 +16,12 @@
 - [CursoR\_光标](https://github.com/CursoR-S) (maintainer) (Busy)
 - 其他贡献者们 <sup>[[1]](https://github.com/LittleSkinCommspt/commspt-bot-manual/graphs/contributors) [[2]](https://github.com/LittleSkinCommspt/commspt-bot/graphs/contributors)</sup>
 
+::: tip ✨ 特别鸣谢
+
+感谢 Commspt 成员 **白纸** 为本 BOT 提供的部分语料，大大提高我们了帮助用户解决问题的速度。
+
+:::
+
 ::: tip 📣 我们希望与你一起维护此项目
 
 较多的主要维护者基本处于忙碌状态，因此本机器人项目经常会处于无人维护状态。
