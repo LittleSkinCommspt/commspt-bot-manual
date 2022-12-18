@@ -56,6 +56,7 @@
 - **`&csl.latest fabric`** 获取最新的 Fabric 版 CustomSkinLoader
 - **`&csl.log`** 引导用户找到并上传 CustomSkinLoader 日志至群聊
 - **`&csl.gui`** 获取 CustomSkinLoaderGUI 最新地址
+- **`&csl.config`** 引导用户自行修改 CustomSkinLoader 配置文件
 
 ## &ygg
 - **`&ygg <player_name>`** 获取`<player_name>`的角色信息并返回该玩家的材质哈希值以及 UUID
