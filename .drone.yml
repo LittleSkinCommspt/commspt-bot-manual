@@ -28,7 +28,7 @@ steps:
     path: /deploy
   commands:
   - rm -rf /deploy/*
-  - cp -r .vuepress/dist /deploy
+  - cp -r .vuepress/dist/* /deploy
 
 - name: send telegram notification
   image: appleboy/drone-telegram
