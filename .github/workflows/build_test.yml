@@ -1,0 +1,27 @@
+name: VuePress Build Test
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [16.x]
+
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+    - uses: actions/cache@v1
+      with:
+        path: node_modules
+        key: npm-cache
+        restore-keys: npm-cache
+    - run: npm install
+    - run: npm run build
+    
