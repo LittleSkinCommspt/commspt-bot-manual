@@ -12,13 +12,13 @@ volumes:
 
 steps:
 - name: vuepress build
-  image: jinzhijie/node-cnpm:18-alpine
+  image: gplane/pnpm:node18-alpine
   volumes:
   - name: node_modules
     path: /drone/src/node_modules
   commands:
-  - cnpm install
-  - cnpm add -D vuepress@next @vuepress/client@next vue
+  - pnpm install
+  - pnpm add -D vuepress@next @vuepress/client@next vue
   - npm run build
   
 - name: deploy
