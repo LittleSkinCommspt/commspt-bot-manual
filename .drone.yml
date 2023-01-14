@@ -18,6 +18,7 @@ steps:
     path: /drone/src/node_modules
   commands:
   - cnpm install
+  - cnpm add -D vuepress@next @vuepress/client@next vue
   - npm run build
   
 - name: deploy
