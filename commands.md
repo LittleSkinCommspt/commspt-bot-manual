@@ -61,7 +61,7 @@
 - **`&csl.config`** 引导用户自行修改 CustomSkinLoader 配置文件
 
 ## &ygg
-- **`&ygg <player_name>`** 获取`<player_name>`的角色信息并返回该玩家的材质哈希值以及 UUID
+- **`&ygg <player_name>`** 获取 `<player_name>` 的角色信息并返回该玩家的材质哈希值以及 UUID
 - **`&ygg.latest`** 获取 authlib-injector 最新版本
 - **`&ygg.server.jvm`** 引导用户添加服务端参数并将产生的日志上传直群文件
 - **`&ygg.nsis`** No Skin in Server，引导用户需正确配置服务端
