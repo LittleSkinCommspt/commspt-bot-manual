@@ -19,10 +19,12 @@
 - **`&ot`**  '这里不是闲聊的地方！' 引导在 LittleSkin 主用户群闲聊的用户前往 Honoka Café
 
 ## &cafe
-- **`&ot`**  温柔地建议用户前往 Honoka Café 水群
+- **`&cafe`**  温柔地建议用户前往 Honoka Café 水群
 
 ::: tip
-`&ot` 和 `&cafe` 功能仅限在 LittleSkin 用户大群中使用，其他群中机器人对于此命令将不会响应。
+为了防止用户滥用机器人，`&ot` 功能使用隔离发送的方式，即在某个内部群中使用 `&ot` 将会触发机器人在大群中响应，而大群中的用户无法看到 `&ot` 指令的发送，且机器人不会在大群中响应 `&ot` 指令。
+
+`&cafe` 功能仅限在 LittleSkin 用户大群中使用，其他群中机器人对于此命令将不会响应。
 :::
 
 ## &manual
@@ -47,11 +49,11 @@
 - **`&cape_format`** 引导用户上传格式合法有效的披风文件
 
 ## &view
-- **`&view <player_name>`** 获取`<player_name>`的皮肤预览
-- **`&view.mojang <player_name>`** 获取`<player_name>`的正版皮肤预览
+- **`&view <player_name>`** 获取 `<player_name>` 的皮肤预览
+- **`&view.mojang <player_name>`** 获取 `<player_name>` 的正版皮肤预览
 
 ## &csl
-- **`&csl <player_name>`** 获取`<player_name>`的角色信息并返回该玩家的材质哈希值
+- **`&csl <player_name>`** 获取 `<player_name>` 的角色信息并返回该玩家的材质哈希值
 - **`&csl.latest forge`** 获取最新的 Forge 版 CustomSkinLoader
 - **`&csl.latest fabric`** 获取最新的 Fabric 版 CustomSkinLoader
 - **`&csl.log`** 引导用户找到并上传 CustomSkinLoader 日志至群聊
