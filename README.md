@@ -20,13 +20,16 @@
 机器人可能会时常更新一些指令和功能，而并没有及时更新手册，因此本手册有可能落后于实际情况。具体请以源代码为准。
 :::
 
-::: warning 与 Constance 的兼容性
-为了方便用户交流，LittleSkin 运营组建立了在 _Telegram_ 和 _QQ_ 间转发消息的消息同步机器人 _Constance_。
+::: warning 与消息同步机器人的兼容性
+为了方便用户交流，LittleSkin Community 建立了在 _Telegram_ 和 _QQ_ 间转发消息的消息同步机器人。
 
-由于 Constance 的特殊性，我们只能兼容大多数指令和功能。
+由于消息同步机器人的特殊性，机器人无法响应由消息同步机器人从 Telegram 转发到 QQ 群的指令。
 
-如果你的 Telegram 昵称中含有 `:`（我们将此符号视为昵称与消息体的分隔符），机器人可能无法正常工作。  
-由于 [UMR](https://github.com/JQ-Networks/UnifiedMessageRelay) 的局限性，在 Telegram 群组中试图 @ QQ 群成员时，机器人也可能无法正常工作。
+<!-- 由于消息同步机器人的特殊性，我们只能兼容大多数指令和功能。-->
+
+<!-- 如果你的 Telegram 昵称中含有 `:`（我们将此符号视为昵称与消息体的分隔符），机器人可能无法正常工作。  
+由于 [UMR](https://github.com/JQ-Networks/UnifiedMessageRelay) 的局限性，在 Telegram 群组中试图 @ QQ 群成员时，机器人也可能无法正常工作。-->
+
 :::
 
 ::: tip 源代码
