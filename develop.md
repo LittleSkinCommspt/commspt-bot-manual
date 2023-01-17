@@ -1,5 +1,5 @@
 # 开发
-这里将简略描述 commpt-bot 的安装过程
+这里将简略描述 commspt-bot 的安装过程
 
 ## Mirai API HTTP 安装与配置
 
@@ -7,9 +7,8 @@
 
 ``` config/net.mamoe.mirai-api-http
 # file: "MCL/config/net.mamoe.mirai-api-http/setting.yml"
-## 配置文件中的值，全为默认值
 
-## 启用的 adapter, 内置有 http, ws, reverse-ws, webhook
+## 启用 http, ws
 adapters:
   - http
   - ws
