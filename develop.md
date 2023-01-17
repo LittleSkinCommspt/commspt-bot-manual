@@ -50,3 +50,31 @@ adapterSettings:
 
 将 `commspt-bot` 拉取到本地并执行 `pip install -r requirements.txt` 安装所需依赖。
 
+重命名 `settings.py.env` 为 `settings.py` 并修改参数。
+
+``` settings.py
+from graia.ariadne.connection.config import (
+    WebsocketClientConfig,
+    config,
+)
+
+class specialqq(object):
+    constance = constance_qid #同步机器人 QQ 号
+    littleskin_main = 586146922 #LittleSkin 用户大群 QQ 群号
+    littleskin_cafe = 651672723 #Honoka Cafe QQ 群号
+    commspt_group = group_qid #LittleSkin 社区群 QQ 群号
+    csl_group = 651287593 #CustomSkinLoader QQ 群号
+    notification_channel = group_qid #LittleSkin 社区通知群 QQ 群号
+    dev_group = group_qid #QQ 开发群
+
+
+commandSymbol = '&'
+
+
+Connection = config(
+    bot_qid, #Bot 的 QQ 号，应与 Mirai API HTTP 登录的 QQ 号一致
+    "verifyKey_of_http_adapter", #MCL/config/net.mamoe.mirai-api-http/setting.yml 中配置的 verifyKey
+    WebsocketClientConfig("http://localhost:8080"),  #MCL/config/net.mamoe.mirai-api-http/setting.yml 中配置的 WebSocket Adapters 的 host 和 port
+)
+
+```
