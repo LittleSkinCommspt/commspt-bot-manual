@@ -36,10 +36,6 @@ export default defineUserConfig({
         link: '/functions.html',
       },
       {
-        text: '开发',
-        link: '/develop.html',
-      },
-      {
         text: 'TOS 违规公告',
         link: '/hall-of-jail.html',
       },
