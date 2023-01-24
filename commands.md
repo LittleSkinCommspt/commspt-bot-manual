@@ -48,9 +48,15 @@
 ## &cape_format
 - **`&cape_format`** 引导用户上传格式合法有效的披风文件
 
-## &view
-- **`&view <player_name>`** 获取 `<player_name>` 的皮肤预览
-- **`&view.mojang <player_name>`** 获取 `<player_name>` 的正版皮肤预览
+## &view.*
+- **`&view.csl <player_name>`** 从 *CustomSkinLoader* 获取 `<player_name>` 的皮肤预览
+- **`&view.ygg <player_name>`** 从 *Yggdrasil API* 获取 `<player_name>` 的皮肤预览
+- **`&view.mojang <player_name>`** 从 *Mojang* 获取 `<player_name>` 的皮肤预览
+- **`&view.legacy <player_name>`** 从 *Legacy 传统加载* 获取 `<player_name>` 的皮肤预览
+
+::: tip 皮肤渲染器
+为了获得更好的体验，我们采用了后端化的 [*SkinRenderMC*](https://github.com/jinzhijie/SkinRenderMC)。
+:::
 
 ## &csl
 - **`&csl <player_name>`** 获取 `<player_name>` 的角色信息并返回该玩家的材质哈希值
