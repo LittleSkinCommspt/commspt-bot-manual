@@ -18,6 +18,7 @@ steps:
   - name: node_modules
     path: /drone/src/node_modules
   commands:
+  - rm -rf /drone/src/node_modules/*
   - npm cache clear --force
   - npm install
   - npm run build
