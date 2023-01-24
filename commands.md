@@ -55,7 +55,7 @@
 - **`&view.legacy <player_name>`** 从 *Legacy 传统加载* 获取 `<player_name>` 的皮肤预览
 
 ::: tip 皮肤渲染器
-为了获得更好的体验，我们采用了[后端化的 *SkinRenderMC*](https://github.com/jinzhijie/SkinRenderMC)，从而对皮肤文件进行渲染。
+为了获得更好的体验，我们采用了后端化的 [*SkinRenderMC*](https://github.com/jinzhijie/SkinRenderMC)。
 :::
 
 ## &csl
