@@ -21,7 +21,7 @@
 :::
 
 ::: warning 与消息同步机器人的兼容性
-为了方便用户交流，LittleSkin Community 建立了在 _Telegram_ 和 _QQ_ 间转发消息的消息同步机器人。
+为了方便用户交流，LittleSkin Community 建立了在 *Telegram* 和 *QQ* 间转发消息的消息同步机器人。
 
 由于消息同步机器人的特殊性，机器人无法响应由消息同步机器人从 Telegram 转发到 QQ 群的指令。
 
