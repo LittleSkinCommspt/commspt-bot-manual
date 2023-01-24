@@ -12,7 +12,8 @@ volumes:
 
 steps:
 - name: vuepress build
-  image: gplane/pnpm:node18-alpine
+#  image: gplane/pnpm:node18-alpine
+  image: node:lts-hydrogen
   volumes:
   - name: node_modules
     path: /drone/src/node_modules
