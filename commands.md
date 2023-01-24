@@ -54,6 +54,10 @@
 - **`&view.mojang <player_name>`** 从 *Mojang* 获取 `<player_name>` 的皮肤预览
 - **`&view.legacy <player_name>`** 从 *Legacy 传统加载* 获取 `<player_name>` 的皮肤预览
 
+::: tip 皮肤渲染器
+为了获得更好的体验，我们采用了[后端化的 *SkinRenderMC*](https://github.com/jinzhijie/SkinRenderMC)，从而对皮肤文件进行渲染。
+:::
+
 ## &csl
 - **`&csl <player_name>`** 获取 `<player_name>` 的角色信息并返回该玩家的材质哈希值
 - **`&csl.latest forge`** 获取最新的 Forge 版 CustomSkinLoader
@@ -63,7 +67,7 @@
 - **`&csl.config`** 引导用户自行修改 CustomSkinLoader 配置文件
 
 ## &ygg
-<!-- - **`&ygg <player_name>`** 获取 `<player_name>` 的角色信息并返回该玩家的材质哈希值以及 UUID -->
+- **`&ygg <player_name>`** 获取 `<player_name>` 的角色信息并返回该玩家的材质哈希值以及 UUID
 - **`&ygg.latest`** 获取 authlib-injector 最新版本
 - **`&ygg.server.jvm`** 引导用户添加服务端参数并将产生的日志上传直群文件
 - **`&ygg.nsis`** No Skin in Server，引导用户需正确配置服务端
