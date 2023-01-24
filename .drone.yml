@@ -17,7 +17,7 @@ steps:
   - name: node_modules
     path: /drone/src/node_modules
   commands:
-  - pnpm install
+  - npm install
   - npm run build
   
 - name: deploy
