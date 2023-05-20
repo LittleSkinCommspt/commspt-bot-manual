@@ -20,7 +20,7 @@
   "homepage": "https://github.com/LittleSkinCommspt/commspt-bot-manual#readme",
   "devDependencies": {
     "vuepress": "2.0.0-beta.61",
-    "@vuepress/plugin-register-components": "2.0.0-beta.61",
+    "@vuepress/plugin-register-components": "2.0.0-beta.62",
     "@vuepress/plugin-search": "2.0.0-beta.61",
     "stylus": "^0.59.0",
     "sass": "^1.57.1"
