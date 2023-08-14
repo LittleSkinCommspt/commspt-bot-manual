@@ -7,8 +7,8 @@ import { defineUserConfig } from 'vuepress'
 export default defineUserConfig({
   base: '/',
   lang: 'zh-CN',
-  title: 'LittleSkin 社区机器人使用手册',
-  description: 'LittleSkin 社区机器人使用手册',
+  title: 'LittleSkin 社区支持机器人使用手册',
+  description: 'LittleSkin 社区支持机器人使用手册',
   head: [['link', { rel: 'icon', href: '/favicon.png' }]],
   theme: defaultTheme({
     logo: '/favicon.png',
@@ -20,11 +20,11 @@ export default defineUserConfig({
     contributors: false,
     sidebar: [
       {
-        text: '欢迎页',
+        text: '欢迎',
         link: '/',
       },
       {
-        text: '条例',
+        text: '使用条例',
         link: '/tos.html',
       },
       {
@@ -34,10 +34,6 @@ export default defineUserConfig({
       {
         text: '功能',
         link: '/functions.html',
-      },
-      {
-        text: 'TOS 违规公告',
-        link: '/hall-of-jail.html',
       },
       {
         text: '维护者',
