@@ -73,6 +73,9 @@
 ### &clfcsl
 - **`&clfcsl`** 引导用户安装适配新版 CustomSkinLoader 的 1.7.10 兼容模组
 
+### &check
+- **`&check`** 检查用户角色名的信息一致性、是否有与 Minecraft 正版档案同名的情况
+
 ### &ygg
 - **`&ygg <player_name>`** 获取 `<player_name>` 的角色信息并返回该玩家的材质哈希值以及 UUID
 - **`&ygg.latest`** 获取 authlib-injector 最新版本
